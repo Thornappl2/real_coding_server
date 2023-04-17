@@ -42,5 +42,3 @@ public class ProjectController {
         return ResponseEntity.noContent().build();
     }
 }
-
-//과제
